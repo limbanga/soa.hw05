@@ -13,5 +13,5 @@ def apply_filters(filters: Filters):
 
 # Chạy server
 if __name__ == "__main__":
-    import uvicorn
+    import uvicorn  
     uvicorn.run(app, host="127.0.0.1", port=8003)

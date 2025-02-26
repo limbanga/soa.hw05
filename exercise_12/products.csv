@@ -1,0 +1,7 @@
+id,name,category_id,price,available
+1,Product A,1,10.99,true
+2,Product B,1,12.49,true
+3,Product C,2,15.00,false
+4,Product D,2,8.99,true
+5,Product E,3,20.00,true
+6,Product F,3,25.50,false
